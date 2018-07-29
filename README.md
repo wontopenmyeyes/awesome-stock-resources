@@ -261,7 +261,6 @@ A selection of websites offering color schemes.
 * [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/) - A nice curated color palette inspiration resource.
 * [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](https://www.materialpalette.com/) - Generate & export your Material Design color palette.
-* [Nippon Colors](http://www.nipponcolors.com/) - A collection of traditional colors of Japan.
 
 ## Aggregated Content
 
